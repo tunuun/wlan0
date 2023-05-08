@@ -1,5 +1,5 @@
 # wlan0
-scripts to set wlan0 Monitor or managed.
+scripts to set wlan0 monitor or managed.
 
 IMPORTANT:
 If your wireless name is something like wlan1 oder wlan0mon then please rewrite it.
